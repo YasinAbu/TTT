@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data>
+        <template id="MyChangeTemp" inherit_id="web._assets_primary_variables">
+            <xpath expr="." position="inside">
+                <link rel="stylesheet" type="text/scss" href="/my_module/static/src/scss/color.scss"/>
+            </xpath>
+        </template>
+    </data>
+</odoo>
