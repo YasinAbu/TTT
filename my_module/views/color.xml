@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <data>
+        <template id="MycolorChange" inherit_id="web._assets_primary_variables">
+            <xpath expr="." position="inside">
+                <link rel="stylesheet" type="text/scss" href="/my_module/static/src/scss/changecolor.scss"/>
+            </xpath>
+        </template>
+    </data>
+</odoo>
+
+
+
+
+
